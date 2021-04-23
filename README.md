@@ -8,8 +8,8 @@ The size of original data is over 70MB and it is full of noise. The sources of n
 
 **Build Models**
 **Input files**
-**utrain.dat : Training data from SVD reconstruction, U**
-**vtrain.dat : Training data from SVD reconstruction, V**
-**sgmatest.dat : Test data for from SVD reconstruction, Sigma**
+**utrain.dat :** Training data from SVD reconstruction, U
+**vtrain.dat :** Training data from SVD reconstruction, V
+**sgmatest.dat :** Test data for from SVD reconstruction, Sigma
 The machine learning models were built as shown in Stock_price_prediction.ipynb
 
