@@ -7,9 +7,7 @@ In this project, datasets are taken from a Kaggle contest sponsored by Winton Ca
 **Preprocessing**
 The size of original data is over 70MB and it is full of noise. The sources of noise are both from the original data and the filling values from the last step. We use SVD method to transform the original huge matrix into a product of three small matrices.
 
-**Build Models**
-
-**Input files**
+**Model Setup**
 
 **utrain.dat :** Training data from SVD reconstruction, U
 
