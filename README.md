@@ -1,5 +1,7 @@
 # Stock-price-prediction
 A "window" time series method based on machine learning models was brought up to predict stock return and achieved faster calculations than ARMA model
+Aurthor: Xiaokun Zhang
+
 ## Table of Contents
 **Dataset**
 In this project, datasets are taken from a Kaggle contest sponsored by Winton Capital (Win). The datasets contain various market related data, and the goal is to forecast future unseen intraday and daily returns. The dataset has 40,000 observations (stocks), each of which includes 25 features, 2 intraday return ratios, 179 intraday returns. 
